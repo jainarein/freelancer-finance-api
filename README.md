@@ -2,17 +2,7 @@
 
 A financial management application for Indian freelancers with GST tracking, invoice management, expense tracking, and tax calculations.
 
-## Architecture & Structure
-
-freelancer-finance-api/
-│
-├── app/                (backend)
-├── alembic/
-├── FrontEnd/           (frontend - Next.js)
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
-└── README.md
+## Architecture
 
 This project consists of two parts:
 
